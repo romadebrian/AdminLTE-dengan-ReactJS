@@ -1,3 +1,7 @@
+# Screenshot
+
+<img src="https://github.com/romadebrian/AdminLTE-dengan-ReactJS/blob/main/Screenshot.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
